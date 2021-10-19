@@ -79,7 +79,7 @@ int main() {
 
     sf::Texture player_text { loadTexture("ant.jpg") };
     sf::Texture leaf_text { loadTexture("folha.png") };
-    sf::Texture field_text { loadTexture("table.png") };
+    sf::Texture field_text { loadTexture("solo.jpg") };
 
     const int STEP {100};
 
